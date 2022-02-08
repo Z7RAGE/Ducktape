@@ -35,6 +35,10 @@
     <a href="https://github.com/DucktapeEngine/Ducktape/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
 </p>
 
+<h1 style: color = "red" align="center"> ‼️I (Duckie) Will no longer be working be working on this project </h1>
+<p align = "center">I will no longer be working on this project or be doing any programing for an indefinate amout of time. The reason is that my parents are offering me an RTX 3090 if I don't do programing and I mean just look at how Sexy this thing is 😳 </p>
+<img src="https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3090/geforce-rtx-3090-shop-630-d@2x.png" alt="Rtx 3090"/> 
+
 # 👋 Introducing `Ducktape`
 `Ducktape` is an open source 2d game engine that gives users an easy-to-use library to develop games for platforms including Windows and Linux (more platforms coming soon™️!)
 It has an integrated Scripting, Rendering, Audio, Physics engine which you can use to make your game stand out.
