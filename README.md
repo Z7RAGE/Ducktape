@@ -39,7 +39,7 @@
 <p align = "center">I will no longer be working on this project or be doing any programing for an indefinate amout of time. The reason is that my parents are offering me an RTX 3090 if I don't do programing and I mean just look at how Sexy this thing is 😳</p>
 <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3090/geforce-rtx-3090-shop-630-d@2x.png" alt="Rtx 3090"/> 
 <p align = "center">Jokes aside I would like to thank you guys for your support it's honestly been awesome I never would of thought I'd reach this close to 30 stars. It's sad I'll have to do boring study instead. Ducktape was fun to make (and stressful) and It's sad I'm gonna have to end production. Feel free to fork the engine and release Waifutape.</p>
-<p align = "center">As always I'll be sure to not make a Ducktape release :)</p>
+<p align = "center">As always I'll be sure not make a Ducktape release :)</p>
 
 # 👋 Introducing `Ducktape`
 `Ducktape` is an open source 2d game engine that gives users an easy-to-use library to develop games for platforms including Windows and Linux (more platforms coming soon™️!)
